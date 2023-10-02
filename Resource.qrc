@@ -1,0 +1,6 @@
+<RCC>
+    <qresource prefix="/">
+        <file>mailservice.png</file>
+        <file>happyos.png</file>
+    </qresource>
+</RCC>
